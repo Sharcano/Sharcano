@@ -1,4 +1,4 @@
-# Hi, I'm Sharcano
+# Hi
 
 I'm a full-stack developer based in Türkiye. I build applications, backend systems and machine learning models, with testing and CI integrated into my development workflow.
 
